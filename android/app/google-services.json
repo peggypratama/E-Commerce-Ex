@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1046312836049",
+    "firebase_url": "https://fixx-25c1c.firebaseio.com",
+    "project_id": "fixx-25c1c",
+    "storage_bucket": "fixx-25c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046312836049:android:5294430873d8dc84f9def0",
+        "android_client_info": {
+          "package_name": "com.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046312836049-mb616nc7ktkuj9ghb34f1fbqslvinmi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvN-WrUBomAuBKCVr7DizimSRR3xGNiF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046312836049-mb616nc7ktkuj9ghb34f1fbqslvinmi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046312836049:android:05fc183e59f40a91f9def0",
+        "android_client_info": {
+          "package_name": "com.ini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046312836049-mb616nc7ktkuj9ghb34f1fbqslvinmi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvN-WrUBomAuBKCVr7DizimSRR3xGNiF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046312836049-mb616nc7ktkuj9ghb34f1fbqslvinmi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046312836049:android:ea04e80ce592c11af9def0",
+        "android_client_info": {
+          "package_name": "com.marketeer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046312836049-mb616nc7ktkuj9ghb34f1fbqslvinmi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvN-WrUBomAuBKCVr7DizimSRR3xGNiF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046312836049-mb616nc7ktkuj9ghb34f1fbqslvinmi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
